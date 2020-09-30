@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HL7_Parser", "HL7_Parser\HL7_Parser.csproj", "{7093BEC9-7CB2-47F4-BEFA-E65C8407BA67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HL7", "HL7\HL7.csproj", "{2CCA1934-F817-4F3F-8406-FFC2F392A276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7093BEC9-7CB2-47F4-BEFA-E65C8407BA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7093BEC9-7CB2-47F4-BEFA-E65C8407BA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7093BEC9-7CB2-47F4-BEFA-E65C8407BA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7093BEC9-7CB2-47F4-BEFA-E65C8407BA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCA1934-F817-4F3F-8406-FFC2F392A276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCA1934-F817-4F3F-8406-FFC2F392A276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCA1934-F817-4F3F-8406-FFC2F392A276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCA1934-F817-4F3F-8406-FFC2F392A276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ADA91F3-AD0F-4044-83D5-71F307EB7166}
+	EndGlobalSection
+EndGlobal
