@@ -44,7 +44,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Component.cs" />
     <Compile Include="DataElement.cs" />
     <Compile Include="Message.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

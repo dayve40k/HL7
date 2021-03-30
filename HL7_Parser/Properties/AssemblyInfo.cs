@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("HL7_Parser")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCopyright("Copyright Logan E. Stringer ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
